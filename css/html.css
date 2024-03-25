@@ -1,0 +1,33 @@
+.btn-red{
+    background-color: rgb(213, 47, 47);
+    color: white;
+    margin-top: 50px;
+    padding: 10px 25px ;
+    border-radius: 20px;
+    width: 200px;
+}
+
+.div-button{
+    text-align: center;
+}
+
+#book-table{
+    height: 100%;
+    position: relative;
+    /* width: 100%; */
+}
+
+.booking-tab{
+    position: absolute;
+    top: 140%;
+    left: 18%;
+    background-color: white;
+    padding: 20px 60px 10px ;
+    font-family: satoshi;
+    /* margin-bottom: 30px; */
+}
+
+.headers{
+    text-align: center;
+    font-family: satoshi;
+}

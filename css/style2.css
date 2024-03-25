@@ -1,0 +1,9 @@
+#carousel1, #carousel2, #carousel3{
+    height: 100vh;
+}
+
+#carousel1{
+    background-image: url(../image/IMG_0703.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}

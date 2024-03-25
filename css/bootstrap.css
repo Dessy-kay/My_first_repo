@@ -1,0 +1,16 @@
+#nav-bar1{
+    background-color: darkblue!important;
+}
+
+#search-button{
+    background-color: #0f4574;
+    color: white;
+}
+
+#search-button::placeholder{
+    color: white;
+}
+
+body{
+    background-color: rgb(101, 117, 117);
+}
