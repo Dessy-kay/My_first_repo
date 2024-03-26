@@ -1,10 +1,49 @@
 .nav-page{
-    margin-left: 300px;
+    margin-left: 200px;
 }
 
 .nav-bar-section{
-background-color: rgb(56, 111, 165);
+background-color: rgb(43, 78, 112);
 }
 .but{
     border-radius: 100px;
+    background-color: rgb(43, 78, 112);
+    color: white;
+    border: solid rgb(72, 121, 244);
 }
+.but:hover{
+    color:white;
+    background-color:skyblue;
+}
+
+.better-div{
+    padding-top: 150px;
+}
+.img{
+    width: 650px;
+}
+
+.get-but{
+    border-radius: 100px;
+    padding: 8px 23px;
+    background-color: rgb(16, 119, 244);
+    color: white;
+    border: none;
+}
+
+.watch-div{
+    font-size: 25px;
+}
+
+.icon{
+    padding: 10px;
+    font-size: 30px;
+}
+
+.bottom-nav{
+    background-color: rgb(233, 231, 231);
+    /* padding-bottom: 25px; */
+}
+
+
+
